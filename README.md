@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://linuxmatters.sh`" target="_blank"><img src="https://raw.githubusercontent.com/linuxmatters/.github/main/.github/banner.png"></a>
+  <a href="https://linuxmatters.sh" target="_blank"><img src="https://raw.githubusercontent.com/linuxmatters/.github/main/.github/banner.png"></a>
 </p>
 <p align="center">
   &nbsp;<a href="https://podcasts.apple.com/us/podcast/linux-matters-podcast/id1682797246" target="_blank"><img alt="Apple Podcasts" src="https://img.shields.io/badge/Apple_Podcasts-7224D8?style=for-the-badge&logo=applepodcasts&logoColor=%23ffffff"></a>&nbsp;
@@ -11,13 +11,13 @@
 
 ## Welcome 👋
 
-We are [Linux Matters](https://linuxmatters.sh), 3 experienced Open Source professionals that discuss the impact Linux has in their daily lives.
-Upbeat family-friendly banter, conversation and discussion for Linux enthusiasts and casual observers of all ages.
-A new episode every two weeks covering terminal productivity, desktop experience, development, gaming, hosting, hardware, community, cloud-native and all the Linux Matters that matter.
+We are [Linux Matters](https://linuxmatters.sh), 3 experienced Open Source professionals who discuss the impact Linux has on their daily lives.
+Upbeat family-friendly banter, conversation, and discussion for Linux enthusiasts and casual observers of all ages.
+A new episode every two weeks covering terminal productivity, desktop experience, development, gaming, hosting, hardware, community, cloud-native, and all the Linux Matters that matter.
 
 ### Community
 
-If you want to get in touch with the hosts or hang out with other listeners and share your feedback with the community you can join:
+If you want to get in touch with the hosts or hang out with other listeners and share your feedback with the community, you can join:
 
 <p align="center">
   &nbsp;<a href="https://t.me/joinchat/Plfd07auVLayNLBD" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-1D98DC?style=for-the-badge&logo=telegram&logoColor=%23ffffff"></a>&nbsp;

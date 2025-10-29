@@ -15,6 +15,19 @@ We are [Linux Matters](https://linuxmatters.sh), 3 experienced Open Source profe
 Upbeat family-friendly banter, conversation and discussion for Linux enthusiasts and casual observers of all ages.
 A new episode every two weeks covering terminal productivity, desktop experience, development, gaming, hosting, hardware, community, cloud-native and all the Linux Matters that matter.
 
+### Podcast
+
+We publish a new podcast episode every two weeks; here are some recent episodes:
+
+
+- [Panache, for Men](https://linuxmatters.sh/67/) (1 day ago)
+- [Terminal Full of Sparkles](https://linuxmatters.sh/66/) (2 weeks ago)
+- [MacOS Made Me Snap!](https://linuxmatters.sh/65/) (4 weeks ago)
+- [Ethical Retro Gaming](https://linuxmatters.sh/64/) (1 month ago)
+- [Running Linux on an IPad](https://linuxmatters.sh/63/) (1 month ago)
+
+### Community
+
 If you want to get in touch with the hosts or hang out with other listeners and share your feedback with the community you can join:
 
 <p align="center">

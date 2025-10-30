@@ -3,8 +3,9 @@
 </p>
 <p align="center">
   &nbsp;<a href="https://podcasts.apple.com/us/podcast/linux-matters-podcast/id1682797246" target="_blank"><img alt="Apple Podcasts" src="https://img.shields.io/badge/Apple_Podcasts-7224D8?style=for-the-badge&logo=applepodcasts&logoColor=%23ffffff"></a>&nbsp;
+  &nbsp;<a href="https://overcast.fm/itunes1682797246" target="_blank"><img alt="Overcast" src="https://img.shields.io/badge/Overcast-FC7E0F?style=for-the-badge&logo=overcast&logoColor=%23ffffff"></a>&nbsp;
+  &nbsp;<a href="https://pca.st/zrq8sm5r" target="_blank"><img alt="Pocket Casts" src="https://img.shields.io/badge/Pocket_Casts-F43E37?style=for-the-badge&logo=pocketcasts&logoColor=%23ffffff"></a>&nbsp;
   &nbsp;<a href="https://open.spotify.com/show/388W00MbvHGI69accqEHQK" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=%23ffffff"></a>&nbsp;
-  &nbsp;<a href="https://pca.st/zrq8sm5r" target="_blank"><img alt="PocketCasts" src="https://img.shields.io/badge/Pocketcasts-F43E37?style=for-the-badge&logo=pocketcasts&logoColor=%23ffffff"></a>&nbsp;
   &nbsp;<a href="https://youtube.com/@Linux-Matters" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-FF0033?style=for-the-badge&logo=youtube&logoColor=%23ffffff"></a>&nbsp;
   &nbsp;<a href="https://linuxmatters.sh/episode/index.xml" target="_blank"><img alt="RSS" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=%23ffffff"></a>&nbsp;
 </p>

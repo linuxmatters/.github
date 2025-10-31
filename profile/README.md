@@ -21,7 +21,7 @@ A new episode every two weeks covering terminal productivity, desktop experience
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Panache, for Men](https://linuxmatters.sh/67/) (2 days ago)
+- [Panache, for Men](https://linuxmatters.sh/67/) (3 days ago)
 - [Terminal Full of Sparkles](https://linuxmatters.sh/66/) (2 weeks ago)
 - [MacOS Made Me Snap!](https://linuxmatters.sh/65/) (1 month ago)
 - [Ethical Retro Gaming](https://linuxmatters.sh/64/) (1 month ago)

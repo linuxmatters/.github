@@ -12,9 +12,7 @@
 
 ## Welcome 👋
 
-We are [Linux Matters](https://linuxmatters.sh), 3 experienced Open Source professionals who discuss the impact Linux has on their daily lives.
-Upbeat family-friendly banter, conversation, and discussion for Linux enthusiasts and casual observers of all ages.
-A new episode every two weeks covering terminal productivity, desktop experience, development, gaming, hosting, hardware, community, cloud-native, and all the Linux Matters that matter.
+We are [Linux Matters](https://linuxmatters.sh), experienced Open Source professionals exploring the tech we actually use. If it runs on Linux, we’re into it. Whether you’re tweaking your desktop, gaming, self-hosting, developing software, improving terminal productivity, or running production infrastructure — we cover the tools and workflows that actually matter. New episode every fortnight. Upbeat and family-friendly for Linux enthusiasts of all ages.
 
 ### Community
 

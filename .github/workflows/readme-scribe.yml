@@ -14,7 +14,7 @@ jobs:
   readme-scribe:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: Generate README.md
         uses: muesli/readme-scribe@v0.1
         env:

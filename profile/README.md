@@ -19,8 +19,8 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Frameworks, Filesystems and Fixes](https://linuxmatters.sh/68/) (1 week ago)
-- [Panache, for men](https://linuxmatters.sh/67/) (3 weeks ago)
+- [Frameworks, Filesystems and Fixes](https://linuxmatters.sh/68/) (2 weeks ago)
+- [Panache, for men](https://linuxmatters.sh/67/) (4 weeks ago)
 - [Terminal Full of Sparkles](https://linuxmatters.sh/66/) (1 month ago)
 - [macOS Made Me Snap!](https://linuxmatters.sh/65/) (1 month ago)
 - [Ethical Retro Gaming](https://linuxmatters.sh/64/) (2 months ago)

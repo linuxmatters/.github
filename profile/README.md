@@ -19,7 +19,7 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [He&#39;s a very nøughty boy](https://linuxmatters.sh/69/) (today)
+- [He&#39;s a very nøughty boy](https://linuxmatters.sh/69/) (1 day ago)
 - [Frameworks, Filesystems and Fixes](https://linuxmatters.sh/68/) (2 weeks ago)
 - [Panache, for men](https://linuxmatters.sh/67/) (4 weeks ago)
 - [Terminal Full of Sparkles](https://linuxmatters.sh/66/) (1 month ago)

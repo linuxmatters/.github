@@ -19,7 +19,7 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Grummaging Gophers &amp; Gods](https://linuxmatters.sh/70/) (5 days ago)
+- [Grummaging Gophers &amp; Gods](https://linuxmatters.sh/70/) (6 days ago)
 - [He&#39;s a very nøughty boy](https://linuxmatters.sh/69/) (2 weeks ago)
 - [Frameworks, Filesystems and Fixes](https://linuxmatters.sh/68/) (1 month ago)
 - [Panache, for men](https://linuxmatters.sh/67/) (1 month ago)

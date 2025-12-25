@@ -19,9 +19,9 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Give me the Aux](https://linuxmatters.sh/71/) (1 day ago)
+- [Give me the Aux](https://linuxmatters.sh/71/) (2 days ago)
 - [Grummaging Gophers &amp; Gods](https://linuxmatters.sh/70/) (2 weeks ago)
-- [He&#39;s a very nøughty boy](https://linuxmatters.sh/69/) (4 weeks ago)
+- [He&#39;s a very nøughty boy](https://linuxmatters.sh/69/) (1 month ago)
 - [Frameworks, Filesystems and Fixes](https://linuxmatters.sh/68/) (1 month ago)
 - [Panache, for men](https://linuxmatters.sh/67/) (1 month ago)
 

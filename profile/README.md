@@ -19,8 +19,8 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Points of You](https://linuxmatters.sh/73/) (1 week ago)
-- [Lets get Trippy](https://linuxmatters.sh/72/) (3 weeks ago)
+- [Points of You](https://linuxmatters.sh/73/) (2 weeks ago)
+- [Lets get Trippy](https://linuxmatters.sh/72/) (4 weeks ago)
 - [Give me the Aux](https://linuxmatters.sh/71/) (1 month ago)
 - [Grummaging Gophers &amp; Gods](https://linuxmatters.sh/70/) (1 month ago)
 - [He&#39;s a very nøughty boy](https://linuxmatters.sh/69/) (2 months ago)

@@ -19,8 +19,8 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (6 days ago)
-- [Points of You](https://linuxmatters.sh/73/) (2 weeks ago)
+- [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (1 week ago)
+- [Points of You](https://linuxmatters.sh/73/) (3 weeks ago)
 - [Lets get Trippy](https://linuxmatters.sh/72/) (1 month ago)
 - [Give me the Aux](https://linuxmatters.sh/71/) (1 month ago)
 - [Grummaging Gophers &amp; Gods](https://linuxmatters.sh/70/) (2 months ago)

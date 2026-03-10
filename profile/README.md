@@ -19,8 +19,8 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [The Smell of Git](https://linuxmatters.sh/76/) (6 days ago)
-- [Mark&#39;s Meshing About](https://linuxmatters.sh/75/) (2 weeks ago)
+- [The Smell of Git](https://linuxmatters.sh/76/) (1 week ago)
+- [Mark&#39;s Meshing About](https://linuxmatters.sh/75/) (3 weeks ago)
 - [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (1 month ago)
 - [Points of You](https://linuxmatters.sh/73/) (1 month ago)
 - [Lets get Trippy](https://linuxmatters.sh/72/) (2 months ago)

@@ -19,11 +19,11 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
+- [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (today)
 - [The Smell of Git](https://linuxmatters.sh/76/) (2 weeks ago)
 - [Mark&#39;s Meshing About](https://linuxmatters.sh/75/) (4 weeks ago)
 - [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (1 month ago)
 - [Points of You](https://linuxmatters.sh/73/) (1 month ago)
-- [Lets get Trippy](https://linuxmatters.sh/72/) (2 months ago)
 
 ### Community
 

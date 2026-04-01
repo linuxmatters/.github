@@ -19,7 +19,7 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [VNC? No way!](https://linuxmatters.sh/78/) (today)
+- [VNC? No way!](https://linuxmatters.sh/78/) (1 day ago)
 - [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (2 weeks ago)
 - [The Smell of Git](https://linuxmatters.sh/76/) (4 weeks ago)
 - [Mark&#39;s Meshing About](https://linuxmatters.sh/75/) (1 month ago)

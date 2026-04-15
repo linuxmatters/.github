@@ -19,7 +19,7 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Pouring out the Sidra](https://linuxmatters.sh/79/) (today)
+- [Pouring out the Sidra](https://linuxmatters.sh/79/) (1 day ago)
 - [VNC? No way!](https://linuxmatters.sh/78/) (2 weeks ago)
 - [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (4 weeks ago)
 - [The Smell of Git](https://linuxmatters.sh/76/) (1 month ago)

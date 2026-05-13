@@ -19,7 +19,7 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Cooking up a framework desktop](https://linuxmatters.sh/81/) (today)
+- [Cooking up a framework desktop](https://linuxmatters.sh/81/) (1 day ago)
 - [Passing the Gourd](https://linuxmatters.sh/80/) (2 weeks ago)
 - [Pouring out the Sidra](https://linuxmatters.sh/79/) (4 weeks ago)
 - [VNC? No way!](https://linuxmatters.sh/78/) (1 month ago)

@@ -19,11 +19,11 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Cooking up a framework desktop](https://linuxmatters.sh/81/) (3 days ago)
+- [Cooking up a framework desktop](https://linuxmatters.sh/81/) (4 days ago)
 - [Passing the Gourd](https://linuxmatters.sh/80/) (2 weeks ago)
 - [Pouring out the Sidra](https://linuxmatters.sh/79/) (1 month ago)
 - [VNC? No way!](https://linuxmatters.sh/78/) (1 month ago)
-- [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (1 month ago)
+- [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (2 months ago)
 
 ### Community
 

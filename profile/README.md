@@ -19,8 +19,8 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (6 days ago)
-- [Cooking up a framework desktop](https://linuxmatters.sh/81/) (2 weeks ago)
+- [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (1 week ago)
+- [Cooking up a framework desktop](https://linuxmatters.sh/81/) (3 weeks ago)
 - [Passing the Gourd](https://linuxmatters.sh/80/) (1 month ago)
 - [Pouring out the Sidra](https://linuxmatters.sh/79/) (1 month ago)
 - [VNC? No way!](https://linuxmatters.sh/78/) (2 months ago)

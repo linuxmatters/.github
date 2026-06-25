@@ -21,7 +21,7 @@ We publish a new podcast episode every two weeks; here are some recent episodes:
 
 - [DOSing about with games](https://linuxmatters.sh/84/) (1 week ago)
 - [snap install flatpak](https://linuxmatters.sh/83/) (2 weeks ago)
-- [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (4 weeks ago)
+- [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (1 month ago)
 - [Cooking up a framework desktop](https://linuxmatters.sh/81/) (1 month ago)
 - [Passing the Gourd](https://linuxmatters.sh/80/) (1 month ago)
 

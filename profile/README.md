@@ -19,8 +19,8 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [DOSing about with games](https://linuxmatters.sh/84/) (1 week ago)
-- [snap install flatpak](https://linuxmatters.sh/83/) (2 weeks ago)
+- [DOSing about with games](https://linuxmatters.sh/84/) (2 weeks ago)
+- [snap install flatpak](https://linuxmatters.sh/83/) (3 weeks ago)
 - [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (1 month ago)
 - [Cooking up a framework desktop](https://linuxmatters.sh/81/) (1 month ago)
 - [Passing the Gourd](https://linuxmatters.sh/80/) (2 months ago)

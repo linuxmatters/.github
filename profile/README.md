@@ -19,7 +19,7 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Clearing the Decks](https://linuxmatters.sh/85/) (1 week ago)
+- [Clearing the Decks](https://linuxmatters.sh/85/) (2 weeks ago)
 - [DOSing about with games](https://linuxmatters.sh/84/) (1 month ago)
 - [snap install flatpak](https://linuxmatters.sh/83/) (1 month ago)
 - [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (1 month ago)

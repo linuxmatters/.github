@@ -19,8 +19,8 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Herding online exams](https://linuxmatters.sh/87/) (1 week ago)
-- [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (3 weeks ago)
+- [Herding online exams](https://linuxmatters.sh/87/) (2 weeks ago)
+- [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (4 weeks ago)
 - [Clearing the Decks](https://linuxmatters.sh/85/) (1 month ago)
 - [DOSing about with games](https://linuxmatters.sh/84/) (2 months ago)
 - [snap install flatpak](https://linuxmatters.sh/83/) (2 months ago)

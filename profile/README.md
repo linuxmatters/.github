@@ -19,8 +19,8 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Peering into the Tube](https://linuxmatters.sh/89/) (1 week ago)
-- [Talking to my Computer](https://linuxmatters.sh/88/) (3 weeks ago)
+- [Peering into the Tube](https://linuxmatters.sh/89/) (2 weeks ago)
+- [Talking to my Computer](https://linuxmatters.sh/88/) (4 weeks ago)
 - [Herding online exams](https://linuxmatters.sh/87/) (1 month ago)
 - [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (1 month ago)
 - [Clearing the Decks](https://linuxmatters.sh/85/) (2 months ago)

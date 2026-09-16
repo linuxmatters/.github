@@ -19,7 +19,7 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Ooh, you are nøughty](https://linuxmatters.sh/90/) (today)
+- [Ooh, you are nøughty](https://linuxmatters.sh/90/) (1 day ago)
 - [Peering into the Tube](https://linuxmatters.sh/89/) (2 weeks ago)
 - [Talking to my Computer](https://linuxmatters.sh/88/) (4 weeks ago)
 - [Herding online exams](https://linuxmatters.sh/87/) (1 month ago)

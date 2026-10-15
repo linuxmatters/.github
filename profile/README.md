@@ -19,9 +19,9 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (1 day ago)
+- [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (2 days ago)
 - [Old man hands](https://linuxmatters.sh/91/) (2 weeks ago)
-- [Ooh, you are nøughty](https://linuxmatters.sh/90/) (4 weeks ago)
+- [Ooh, you are nøughty](https://linuxmatters.sh/90/) (1 month ago)
 - [Peering into the Tube](https://linuxmatters.sh/89/) (1 month ago)
 - [Talking to my Computer](https://linuxmatters.sh/88/) (1 month ago)
 

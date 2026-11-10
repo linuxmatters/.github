@@ -19,8 +19,8 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Flatpak Stats vs. Snap Stats](https://linuxmatters.sh/93/) (1 week ago)
-- [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (3 weeks ago)
+- [Flatpak Stats vs. Snap Stats](https://linuxmatters.sh/93/) (2 weeks ago)
+- [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (4 weeks ago)
 - [Old man hands](https://linuxmatters.sh/91/) (1 month ago)
 - [Ooh, you are nøughty](https://linuxmatters.sh/90/) (1 month ago)
 - [Peering into the Tube](https://linuxmatters.sh/89/) (2 months ago)

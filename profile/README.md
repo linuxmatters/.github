@@ -19,7 +19,7 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [A pocket full of Pi](https://linuxmatters.sh/94/) (2 days ago)
+- [A pocket full of Pi](https://linuxmatters.sh/94/) (3 days ago)
 - [Flatpak Stats vs. Snap Stats](https://linuxmatters.sh/93/) (2 weeks ago)
 - [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (1 month ago)
 - [Old man hands](https://linuxmatters.sh/91/) (1 month ago)

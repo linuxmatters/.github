@@ -19,7 +19,7 @@ We are [Linux Matters](https://linuxmatters.sh), experienced Open Source profess
 We publish a new podcast episode every two weeks; here are some recent episodes:
 
 
-- [Scratching Your Own Itch](https://linuxmatters.sh/95/) (1 day ago)
+- [Scratching Your Own Itch](https://linuxmatters.sh/95/) (2 days ago)
 - [A pocket full of Pi](https://linuxmatters.sh/94/) (2 weeks ago)
 - [Flatpak Stats vs. Snap Stats](https://linuxmatters.sh/93/) (1 month ago)
 - [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (1 month ago)
